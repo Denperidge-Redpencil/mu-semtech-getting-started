@@ -1,59 +1,50 @@
 
-		Tue Jan 03 2023
-12:18:04 OpenLink Virtuoso Universal Server
-12:18:04 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
-12:18:04 uses OpenSSL 1.0.2n  7 Dec 2017
-12:18:04 uses parts of PCRE, Html Tidy
-12:18:04 SQL Optimizer enabled (max 1000 layouts)
-12:18:04 Compiler unit is timed at 0.000578 msec
-12:18:12 Checkpoint started
-12:18:12 Roll forward started
-12:18:12 Roll forward complete
-12:18:12 Checkpoint started
-12:18:12 Checkpoint finished, log reused
-12:18:12 Checkpoint started
-12:18:12 Checkpoint finished, log reused
-12:18:12 Checkpoint started
-12:18:12 Checkpoint finished, log reused
-12:18:13 Checkpoint started
-12:18:13 Checkpoint finished, log reused
-12:18:13 Checkpoint started
-12:18:13 Checkpoint finished, log reused
-12:18:13 PL LOG: Installing Virtuoso Conductor version 1.00.8823 (DAV)
-12:18:13 PL LOG: Installing with dependencies Virtuoso Conductor version 1.00.8823/2021-11-24 14:19 (DAV)
-12:18:13 Checkpoint started
-12:18:14 Checkpoint finished, log reused
-12:18:19 Checkpoint started
-12:18:19 Checkpoint finished, log reused
-12:18:19 PL LOG: Installation with dependencies complete
-12:18:19 Checkpoint started
-12:18:19 Checkpoint finished, log reused
-12:18:19 HTTP/WebDAV server online at 27015
-12:18:19 Server online at 1111 (pid 19)
-12:18:20 Server received signal 15
-12:18:20 Initiating quick shutdown
-12:18:20 Server shutdown complete
+		Wed Jan 04 2023
+16:45:32 OpenLink Virtuoso Universal Server
+16:45:32 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+16:45:32 uses OpenSSL 1.0.2n  7 Dec 2017
+16:45:32 uses parts of PCRE, Html Tidy
+16:45:32 SQL Optimizer enabled (max 1000 layouts)
+16:45:32 Compiler unit is timed at 0.000243 msec
+16:45:34 Checkpoint started
+16:45:35 Roll forward started
+16:45:35 Roll forward complete
+16:45:35 Checkpoint started
+16:45:35 Checkpoint finished, log reused
+16:45:35 Checkpoint started
+16:45:35 Checkpoint finished, log reused
+16:45:35 Checkpoint started
+16:45:35 Checkpoint finished, log reused
+16:45:37 Checkpoint started
+16:45:38 Checkpoint finished, log reused
+16:45:38 Checkpoint started
+16:45:38 Checkpoint finished, log reused
+16:45:38 PL LOG: Installing Virtuoso Conductor version 1.00.8823 (DAV)
+16:45:38 PL LOG: Installing with dependencies Virtuoso Conductor version 1.00.8823/2021-11-24 14:19 (DAV)
+16:45:38 Checkpoint started
+16:45:38 Checkpoint finished, log reused
+16:45:50 Checkpoint started
+16:45:50 Checkpoint finished, log reused
+16:45:50 PL LOG: Installation with dependencies complete
+16:45:50 Checkpoint started
+16:45:50 Checkpoint finished, log reused
+16:45:50 HTTP/WebDAV server online at 27015
+16:45:50 Server online at 1111 (pid 19)
+16:45:50 Server received signal 15
+16:45:50 Initiating quick shutdown
+16:45:50 Server shutdown complete
 
-		Tue Jan 03 2023
-12:18:20 OpenLink Virtuoso Universal Server
-12:18:20 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
-12:18:20 uses OpenSSL 1.0.2n  7 Dec 2017
-12:18:20 uses parts of PCRE, Html Tidy
-12:18:20 Database version 3126
-12:18:20 SQL Optimizer enabled (max 1000 layouts)
-12:18:21 Compiler unit is timed at 0.000174 msec
-12:18:21 Roll forward started
-12:18:21 Roll forward complete
-12:18:22 Checkpoint started
-12:18:22 Checkpoint finished, log reused
-12:18:22 HTTP/WebDAV server online at 8890
-12:18:22 Server online at 1111 (pid 1)
-12:28:22 ERRS_0 01V01 QW004 Incompatible types VARCHAR (182) and INTEGER (189) in COALESCE for coalesce_ret and <constant>
-12:28:22 ERRS_0 01V01 QW004 Incompatible types VARCHAR (182) and INTEGER (189) in := for coalesce_ret and <constant>
-12:28:22 ERRS_0 01V01 QW004 Incompatible types VARCHAR (182) and INTEGER (189) in COALESCE for coalesce_ret and <constant>
-12:28:22 ERRS_0 01V01 QW004 Incompatible types VARCHAR (182) and INTEGER (189) in := for coalesce_ret and <constant>
-13:18:24 Checkpoint started
-13:18:24 Checkpoint finished, log reused
-14:11:48 Server received signal 15
-14:11:48 Initiating quick shutdown
-14:11:48 Server shutdown complete
+		Wed Jan 04 2023
+16:45:50 OpenLink Virtuoso Universal Server
+16:45:50 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+16:45:50 uses OpenSSL 1.0.2n  7 Dec 2017
+16:45:50 uses parts of PCRE, Html Tidy
+16:45:50 Database version 3126
+16:45:50 SQL Optimizer enabled (max 1000 layouts)
+16:45:51 Compiler unit is timed at 0.000302 msec
+16:45:52 Roll forward started
+16:45:52 Roll forward complete
+16:45:52 Checkpoint started
+16:45:52 Checkpoint finished, log reused
+16:45:52 HTTP/WebDAV server online at 8890
+16:45:52 Server online at 1111 (pid 1)
