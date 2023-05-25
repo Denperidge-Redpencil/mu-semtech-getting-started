@@ -9,3 +9,6 @@ docker-compose up --detach
 cd books
 eds --proxy http://host
 ```
+
+## License
+The tutorial and libraries used have their own licenses. Any code written by me is under the [MIT License](LICENSE).
